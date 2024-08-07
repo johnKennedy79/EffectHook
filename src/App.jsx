@@ -1,7 +1,12 @@
 import "./App.css";
+import Disney from "./comp/EffectHook";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Disney />
+    </>
+  );
 }
 
 export default App;
